@@ -99,8 +99,13 @@ I have hands-on experience with:
 
 ## 🐍 Snake Contributions Animation
 <p align="center">
-  <img src="https://github.com/Shahzaib-arch786/Shahzaib-arch786/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
 
 ---
 
