@@ -1,19 +1,19 @@
 <!-- Profile Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Ali+Shahzaib;Frontend+Developer;AI+%26+ML+Enthusiast;Product+Innovator;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Ali+Shahzaib;Software+Engineer;AI+%26+ML+Enthusiast;Product+Innovator;Lifelong+Learner" />
 </p>
 
-<h3 align="center">💻 Frontend Developer | 🌐 AI & ML Enthusiast | 🚀 Product Innovator</h3>
+<h3 align="center">💻 Software Engineer | 🌐 AI & ML Enthusiast | 🚀 Product Innovator</h3>
 
 ---
 
 ## 💫 About Me
-I'm a **BSIT student** with strong interests in **Web Development**, **AI/ML**, and **product innovation**.  
+I'm a **BSIT student** with strong interests in **Software Development**, **AI/ML**, and **product innovation**.  
 Currently working on my **Final Year Project** — building intelligent systems like **AI customer support assistants** and **student-focused software**.  
 
 I have hands-on experience with:  
-- **Frontend:** React, TypeScript, Tailwind CSS, Hero UI, NextUI  
-- **Backend & APIs:** Express.js, SQLite, MongoDB, MySQL  
+- **Frontend:** React, Next.js/TypeScript, Tailwind CSS, Hero UI, NextUI  
+- **Backend & APIs:** Express.js, SQLite, MongoDB, MySQL, Python 
 - **Mobile Dev:** Android Studio with SQLite  
 - **Tools & Integrations:** React Hook Form, Yup, Axios, Firebase, Postman, Cisco Packet Tracer  
 - **Startups:** Branding, pitch decks & product documentation for my **Calm Mask** sleep-tech concept  
