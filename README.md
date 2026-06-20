@@ -8,8 +8,8 @@
 ---
 
 ## 💫 About Me
-I'm a **BSIT student** with strong interests in **Software Development**, **AI/ML**, and **product innovation**.  
-Currently working on my **Final Year Project** — building intelligent systems like **AI customer support assistants** and **student-focused software**.  
+I'm a **BSIT Graduate** with strong interests in **Software Development**, **AI/ML**, and **product innovation**.  
+recently Completed my work on my **Final Year Project** — building intelligent systems like **AI customer support assistants** and **student-focused software**.  
 
 I have hands-on experience with:  
 - **Frontend:** React, Next.js/TypeScript, Tailwind CSS, Hero UI, NextUI  
