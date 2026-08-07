@@ -1,103 +1,271 @@
-<!-- Profile Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Muhammad+Ali+Shahzaib;Software+Engineer;AI+%26+ML+Enthusiast;Product+Innovator;Lifelong+Learner" />
+<div align="center">
+
+# Muhammad Ali Shahzaib
+
+### Full-Stack Developer · AI Applications · Product Engineering
+
+Building intelligent software, AI-powered experiences, and practical digital products.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammad-ali-shahzaib-17a857252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:shahzaib02122001@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.fiverr.com/ali_shahzaib_/buying?source=avatar_menu_profile">
+  <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white" alt="Fiverr"/>
+</a>
+<a href="https://www.upwork.com/freelancers/~0169977fb6d8296b1a">
+  <img src="https://img.shields.io/badge/Upwork-Work_With_Me-14A800?style=flat-square&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
+
+<br/><br/>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Creating+modern+full-stack+products;Exploring+intelligent+automation;Turning+ideas+into+working+software"
+alt="Typing SVG"
+/>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Full-Stack Developer and BS Information Technology graduate** focused on building practical software products that combine modern web technologies with **AI-powered functionality**.
+
+My work spans **full-stack web development, conversational AI, intelligent automation, databases, APIs, and product prototyping**. I enjoy taking an idea from concept to implementation — designing the experience, building the backend, integrating intelligent features, and turning it into something people can actually use.
+
+I'm particularly interested in:
+
+* **AI-powered applications** and conversational systems
+* **Full-stack product development**
+* **Intelligent workflow automation**
+* **SaaS and business software**
+* **Product prototyping and innovation**
+
+I'm also available for **freelance development, AI projects, and product-focused collaborations** through Fiverr and Upwork.
+
+---
+
+## What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Applications
+
+Conversational AI, RAG-powered systems, intelligent assistants, speech interfaces, and AI-enabled workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Full-Stack Products
+
+Modern applications built around responsive interfaces, scalable APIs, databases, authentication, and real-world workflows.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 Intelligent Automation
+
+Systems that reduce repetitive work by combining business rules, APIs, structured data, and AI.
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Product Prototypes
+
+Turning early-stage concepts into usable software prototypes with a focus on product thinking and user experience.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Featured Work
+
+### 🚀 TalkFlow AI 2.0
+
+**AI-powered multilingual conversational and business automation platform**
+
+TalkFlow AI enables businesses to automate customer interactions through **voice and text**, combining modern conversational AI with business-specific knowledge and automated actions.
+
+**Highlights**
+
+* Multilingual **Urdu & English** conversations
+* Voice and text-based AI interaction
+* **Retrieval-Augmented Generation (RAG)**
+* FAQ and document-based knowledge retrieval
+* OpenAI Whisper speech recognition
+* Text-to-Speech integration
+* Intent detection and business action automation
+* Admin dashboard and conversation management
+* Designed for multiple business domains
+
+**Built with**
+
+`React` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `OpenAI` · `Whisper` · `RAG` · `Tailwind CSS` · `Framer Motion`
+
+<a href="https://github.com/Shahzaib-arch786/Talk-Flow-AI-2.O">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+
+<br/>
+
+### 🌙 Calm Mask
+
+**Sleep-tech product concept focused on intelligent stress detection and relaxation**
+
+A product innovation concept exploring **HRV-based stress detection**, soothing audio, and vibration-based relaxation experiences.
+
+**Focus**
+
+`Product Innovation` · `HRV` · `Sleep Technology` · `Prototyping` · `Product Documentation`
+
+<br/>
+
+### 📚 Student Past Paper Portal
+
+**Student-focused learning platform with AI-supported discussion**
+
+Designed as a digital academic resource where students and teachers can access past-paper material and interact through AI-assisted educational features.
+
+**Focus**
+
+`Web Development` · `AI Integration` · `Education Technology` · `Database Systems`
+
+---
+
+## Technology
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages"/>
 </p>
 
-<h3 align="center">💻 Software Engineer | 🌐 AI & ML Enthusiast | 🚀 Product Innovator</h3>
+### Frontend
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend Technologies"/>
+</p>
 
-## 💫 About Me
-I'm a **BSIT Graduate** with strong interests in **Software Development**, **AI/ML**, and **product innovation**.  
-recently Completed my work on my **Final Year Project** — building intelligent systems like **AI customer support assistants** and **student-focused software**.  
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `HeroUI` · `Framer Motion` · `Vite`
 
-I have hands-on experience with:  
-- **Frontend:** React, Next.js/TypeScript, Tailwind CSS, Hero UI, NextUI  
-- **Backend & APIs:** Express.js, SQLite, MongoDB, MySQL, Python 
-- **Mobile Dev:** Android Studio with SQLite  
-- **Tools & Integrations:** React Hook Form, Yup, Axios, Firebase, Postman, Cisco Packet Tracer  
-- **Startups:** Branding, pitch decks & product documentation for my **Calm Mask** sleep-tech concept  
+### Backend & APIs
 
-📌 I’m active on **Fiverr** & **Upwork**, building my portfolio and collaborating with clients globally.  
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" alt="Backend Technologies"/>
+</p>
 
----
+`FastAPI` · `Node.js` · `Express.js` · `REST APIs` · `SQLAlchemy` · `JWT Authentication`
 
-## 🌐 Connect with Me  
-<p align="center">
-<a href="https://www.linkedin.com/in/muhammad-ali-shahzaib-17a857252/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shahzaib02122001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### Databases & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase&theme=dark" alt="Databases"/>
+</p>
+
+`PostgreSQL` · `MongoDB` · `MySQL` · `SQLite` · `Firebase`
+
+### AI & Intelligent Systems
+
+`OpenAI APIs` · `Large Language Models` · `RAG` · `Embeddings` · `Speech-to-Text` · `Text-to-Speech`
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,androidstudio&theme=dark" alt="Development Tools"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+## Currently Exploring
 
-**Backend & Database:**  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Tools:**  
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
+```text
+AI-native software architecture
+RAG & knowledge-driven applications
+Conversational and voice AI
+Business process automation
+Scalable SaaS product development
+```
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **AI Customer Support Assistant** – Voice-enabled, Urdu/English support, FAQ integration.  
-- 🎯 **Calm Mask Sleep-Tech Device** – HRV stress detection, soothing sound & vibration prototype.  
-- 📚 **Student Past Paper Portal** – AI discussion tool for students & teachers.  
+## GitHub Activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shahzaib-arch786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-arch786&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-arch786&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br/>
+
+### Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahzaib-arch786&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shahzaib-arch786&theme=dark&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-arch786&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+## Let's Connect
 
----
+I'm always interested in discussing **software development, AI applications, product ideas, freelance work, and interesting technical collaborations**.
 
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-arch786&theme=react-dark&hide_border=true&area=true" />
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/muhammad-ali-shahzaib-17a857252/">
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Ali_Shahzaib-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
+<a href="mailto:shahzaib02122001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
----
+<br/><br/>
 
-## 🏆 GitHub Trophies
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shahzaib-arch786&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
-</p>
+<a href="https://www.fiverr.com/ali_shahzaib_/buying?source=avatar_menu_profile">
+  <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+</a>
 
----
+<a href="https://www.upwork.com/freelancers/~0169977fb6d8296b1a">
+  <img src="https://img.shields.io/badge/Upwork-View_Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+</a>
 
-## ✍️ Random Dev Quote
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+<a href="https://github.com/Shahzaib-arch786">
+  <img src="https://img.shields.io/badge/GitHub-Shahzaib--arch786-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
----
+</div>
 
-## 🔝 Top Contributed Repos
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Shahzaib-arch786&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
+<br/>
 
----
-
-
+<div align="center">
+  <sub>Building software that turns ideas into useful products.</sub>
+</div>
