@@ -204,9 +204,13 @@ Scalable SaaS product development
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shahzaib-arch786&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shahzaib-arch786&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+alt="GitHub Stats"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-arch786&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img height="180"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahzaib-arch786&theme=github_dark&title_color=58A6FF&text_color=C9D1D9&chart_color=58A6FF"
+alt="Top Languages"/>
 
 </div>
 
@@ -214,7 +218,11 @@ Scalable SaaS product development
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-arch786&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-arch786&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true"
+width="100%"
+alt="GitHub Activity Graph"
+/>
 
 </div>
 
@@ -225,13 +233,31 @@ Scalable SaaS product development
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake-dark.svg?v=20260808"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg?v=20260808"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/Shahzaib-arch786/Shahzaib-arch786/output/github-contribution-grid-snake.svg?v=20260808"
+    width="100%"
+  />
 </picture>
 
 </div>
+<br/>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahzaib-arch786&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+<br/>
 ---
 
 ## Let's Connect
