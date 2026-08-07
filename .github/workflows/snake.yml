@@ -2,13 +2,10 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Refresh once every day
     - cron: "0 0 * * *"
 
-  # Allows manual execution from the Actions tab
   workflow_dispatch:
 
-  # Generate immediately when this workflow is added/changed
   push:
     branches:
       - main
@@ -30,10 +27,10 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%2358A6FF
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2358A6FF
 
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publish snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true
